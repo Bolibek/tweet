@@ -1,0 +1,11 @@
+{
+	"posts": [
+		{ "label": "hi", "id": 1, "isLiked": false, "important": true },
+		{ "label": "hi there", "id": 2, "isLiked": false, "important": false },
+		{ "label": "hi, man", "id": 3, "isLiked": false, "important": false }
+	],
+	"buttons": [
+		{ "name": "all", "label": "All" },
+		{ "name": "like", "label": "Like" }
+	]
+}
